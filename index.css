@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background: white;
+}
+
+
+.counter{
+   text-align: center;
+   padding: 280px;
+
+}
+.counter-heading {
+    font-size: 50px;
+}
+
+.counter-value {
+    font-size: 45px;
+}
+
+.button-decrement,.button-reset,.button-increment{
+background-color: rgb(55, 51, 51);
+color: white;
+font-size: 20px;
+border-radius: 8px;
+padding: 10px;
+cursor: pointer;
+}
+
